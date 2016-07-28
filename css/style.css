@@ -1,0 +1,135 @@
+* { font-family: Arial; }
+
+.logotipo {
+	width: 300px; 
+	height: 40px;
+}
+.bighero { 
+	width: 80px; 
+	margin-top: 290px; 
+	margin-left: 35px; 
+}
+.banner { 
+	width: 430%;
+}
+
+.text-blanco {color: lightgray;}
+.text-negro {color: black;}
+
+h1 {
+	margin-bottom: 20px;
+	margin-top: 10px ;
+	padding: 10px;
+	border-bottom: 2px solid gray;
+}
+.dos {
+	background-color: orange; 
+	padding: 20px 50px;
+}
+.pelichico {
+	display: inline-block; 
+	height: 200px; 
+}
+.video { 
+	width: 100%; 
+	height: 400px; 
+}
+.peligde { 
+	width: 100%; 
+	height: 300px;
+	margin: 40px 0px;
+}
+.bold { 
+	font-weight: bold; 
+}
+
+
+.pad {
+	padding-right: 30px;
+}
+.ALLAGE {
+	padding: 10px;
+	background-color: transparent;
+	border: 3px green solid;
+	border-radius: 10%;
+	color: green;
+	margin: 10px 10px 10px 0px;
+	font-size: 1.1em;
+}
+
+.amarillo {
+	padding: 12px;
+	background-color: #F5EA0C;
+	border: 0px;
+	display: block;
+	margin: 10px 10px 10px 0px;
+	font-size: 1.1em;	
+	width: 200px;
+}
+
+.anaranjado {
+	padding: 12px;
+	background-color: #F5840C;
+	border: 0px;
+	display: block;
+	margin: 10px 10px 10px 0px;
+	font-size: 1.1em;
+	width: 200px;
+}
+
+
+footer { 
+	background-color: lightgray;
+	padding: 20px 50px;
+ }
+
+ footer p {
+ 	margin: 20px 0px;
+ }
+
+ hr {
+ 	margin-top: 10px;
+ 	margin-bottom: 30px;
+ 	color: gray;
+ }
+
+ a {
+ 	text-decoration: none
+ }
+
+ li {
+ 	color: lightgray;
+ 	list-style: none;
+ 	margin-bottom: 30px;
+ 	font-size: 0.9em;
+ }
+
+.fc {
+	font-size: .8em;
+	
+}
+
+h2 {
+	margin-bottom: 20px;
+}
+
+.padi {
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 50px;
+}
+
+.dorado {
+	padding: 12px;
+	background-color: #C79355;
+	border: 0px;
+	display: block;
+	margin: 10px 10px 30px 0px;
+	font-size: 1.1em;
+	width: 180px;
+	height: 60px;
+}
+
+.text-dor {
+	color: #C79355;
+}
